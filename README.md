@@ -179,7 +179,7 @@ MIT
 
 ## 👥 Contributors
 
-* Karan Kalra - Initial development
+* Wali Ahmad- Initial development
 
 ---
 
